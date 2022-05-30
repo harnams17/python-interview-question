@@ -31,15 +31,6 @@
 19. Display a “simplilearn” message after successfully executing for loop
 20. What is __init__?
 21. What are unit tests in Python?
-
-
 22. What is Scope Resolution in Python?
-
-
 23. What are decorators in Python?
-
-
 24. Which function responsible for pickling?
-
-
-https://github.com/harnams17/python/pull/1
